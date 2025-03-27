@@ -28,3 +28,8 @@
 .thumbChecked {
   transform: translateX(100%);
 }
+
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
